@@ -31,10 +31,10 @@ This text editor is a single-page application that meets the progressive web app
 ```
 ## Screenshots
 
-![jate-install]()
-![jate-manifest]()
-![jate-service-worker]()
-![jate-indexedDB]()
+![jate-install](images/assignment19.jpg)
+![jate-manifest](images/assignment19-2.jpg)
+![jate-service-worker](images/assignment19-3.jpg)
+![jate-indexedDB](images/assignment19-4.jpg)
 
 ## Usage
 This project is used to demonstrate my knowledge of progresive web applications. 
