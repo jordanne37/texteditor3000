@@ -6,7 +6,7 @@
 [Click Here!](https://texteditor3000.herokuapp.com/)
 
 ## Description
-This text editor is a single-page application that meets the progressive web app criteria. This application features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## Table of Contents
 - [TEXT-EDITOR-3000](#text-editor-3000)
