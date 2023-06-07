@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Deployed Application Link
-[Click Here!](https://damp-thicket-78676.herokuapp.com/)
+[Click Here!](https://texteditor3000.herokuapp.com/)
 
 ## Description
 This text editor is a single-page application that meets the progressive web app criteria. This application features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
